@@ -117,7 +117,4 @@ group by nominee
 Limit 100
 
 ```
-
-
-
 1[ICA4](ICA4-5.png)
